@@ -16,11 +16,11 @@ You can view the live project [here](https://gurpreetsingh-21.github.io/ReactCal
 
 ## Technologies Used
 
-- **React:** 
-- **Vite:**
-- **Math.js:** 
-- **HTML:** 
-- **CSS:** 
+- **React** 
+- **Vite**
+- **Math.js** 
+- **HTML** 
+- **CSS** 
 
 ## Getting Started
 
